@@ -97,10 +97,10 @@ if (GamePad.isTrianglePressed()) {
 
 ### Final Design
 
-![Render](Media/photo1)
-![Render](Media/photo2)
-![Render](Media/render1)
-![Render](Media/render2)
+![Render](https://github.com/abhi-243/SAR-Rover/blob/main/Media/photo1.jpg)
+![Render](https://github.com/abhi-243/SAR-Rover/blob/main/Media/photo2.jpg)
+![Render](https://github.com/abhi-243/SAR-Rover/blob/main/Media/render1.jpg)
+![Render](https://github.com/abhi-243/SAR-Rover/blob/main/Media/render2.jpg)
 
 ---
 
