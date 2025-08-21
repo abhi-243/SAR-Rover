@@ -105,7 +105,11 @@ if (GamePad.isTrianglePressed()) {
 
 ### Animation
 
-[![Watch the demo](https://img.youtube.com/vi/A4exE1CUXJw/0.jpg)](https://youtu.be/A4exE1CUXJw)
+
+<video width="600" controls>
+  <source src="Media/Exploded Animation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
