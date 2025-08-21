@@ -105,11 +105,7 @@ if (GamePad.isTrianglePressed()) {
 
 ### Animation
 
-
-<video width="600" controls>
-  <source src="Media/Exploded Animation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![Watch the demo]](https://github.com/abhi-243/SAR-Rover/blob/main/Media/Exploded%20Animation.mp4)
 
 ---
 
