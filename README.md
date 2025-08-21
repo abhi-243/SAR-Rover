@@ -97,16 +97,15 @@ if (GamePad.isTrianglePressed()) {
 
 ### Final Design
 
-![Render](https://github.com/abhi-243/SAR-Rover/blob/main/Media/photo1.jpg)
-![Render](https://github.com/abhi-243/SAR-Rover/blob/main/Media/photo2.jpg)
-![Render](https://github.com/abhi-243/SAR-Rover/blob/main/Media/render1.jpg)
-![Render](https://github.com/abhi-243/SAR-Rover/blob/main/Media/render2.jpg)
+| ![Render1](https://github.com/abhi-243/SAR-Rover/blob/main/Media/photo1.jpg) | ![Render2](https://github.com/abhi-243/SAR-Rover/blob/main/Media/photo2.jpg) |
+|:---:|:---:|
+| ![Render3](https://github.com/abhi-243/SAR-Rover/blob/main/Media/render1.jpg) | ![Render4](https://github.com/abhi-243/SAR-Rover/blob/main/Media/render2.jpg) |
 
 ----
 
 ### Animation
 
-[![Watch the demo](docs/preview.png)](https://youtu.be/A4exE1CUXJw)
+[![Watch the demo](https://img.youtube.com/vi/A4exE1CUXJw/0.jpg)](https://youtu.be/A4exE1CUXJw)
 
 ---
 
