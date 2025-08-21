@@ -102,6 +102,12 @@ if (GamePad.isTrianglePressed()) {
 ![Render](https://github.com/abhi-243/SAR-Rover/blob/main/Media/render1.jpg)
 ![Render](https://github.com/abhi-243/SAR-Rover/blob/main/Media/render2.jpg)
 
+----
+
+### Animation
+
+![Render](https://github.com/abhi-243/SAR-Rover/blob/main/Media/Exploded%20Animation.mp4)
+
 ---
 
 ## 📚 Inspiration
